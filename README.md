@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi, 👋
+
+I'm Muhammet, software developer. I do software development with web technologies.
+
+I generally use .NET technologies in my work. I develop projects with .NET Core, MVC, Entity Framework, GIT, MSSQL, NodeJS, REST API and similar technologies.
+
+I hope you will benefit from my projects.
+
+Best regards. 
 
 <!--
 **muhammetgcl/muhammetgcl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
